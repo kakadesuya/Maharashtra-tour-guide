@@ -1,0 +1,10 @@
+
+  .main  {
+    
+   cursor:pointer;
+    transition:0.3s all ease-in-out;
+    overflow:hidden;
+     }
+  .main:hover {
+   transform:scale(1.2);
+}
